@@ -121,6 +121,8 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 ## Tools
 
 [advertools](https://github.com/eliasdabbas/advertools)
+[zens.ink](https://github.com/ZensInk/zens-ink-seo-package)
+> Free open-source SEO CLI toolkit (26 tools, pure Python stdlib, zero dependencies): keyword research, SERP difficulty scoring, site audit, GEO/AI-search scoring, rank tracking — runs on free API tiers, no paid tools required.
 > Python library providing a comprehensive set of SEO and digital marketing tools.
 
 [ahrefs](https://ahrefs.com/)
